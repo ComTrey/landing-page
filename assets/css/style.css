@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+
+}
+
+.header{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: bisque;
+padding: 20;
+}
+.header h1 {
+  display: inline-block;
+}
+.header nav {
+padding-top: 15px;
+margin-right: 20px;
+float: right;
+font-size: 20;
+}
+.header nav ul {
+  list-style-type: none;
+}
+.header nav ul li {
+  display: inline-block;
+  margin left: 20px;
+}
+ul {
+  display: block;
+}
+section
